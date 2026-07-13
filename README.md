@@ -1,6 +1,5 @@
-*A Chinese personal-finance skill: dedupe multi-source bills (WeChat Pay / Alipay / bank & credit-card) → categorize → monthly spending report.*
-
 # AI 记账 · 月度账单整理与消费报告（个人/家庭）
+*A Chinese personal-finance skill: dedupe multi-source bills (WeChat Pay / Alipay / bank & credit-card) → categorize → monthly spending report.*
 
 把你当月的多份账单（银行/信用卡、微信、支付宝）交给 AI，自动**去重对账、核定消费口径、分六大类、挑出可优化的省钱项**，产出一个 4-Sheet 的 Excel 账本 + 消费报告。核心是**口径一致、月月可比**，以及**拿不准就问、不瞎猜**。
 
